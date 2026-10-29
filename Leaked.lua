@@ -11737,7 +11737,7 @@ Library.NotifySide = "Left"
 getgenv().showui = not (getgenv().autoload and getgenv().autoload.silent == true)
 
 getgenv().Window = Library:CreateWindow({
-	Title = "Alacrity.rip ・ discord.gg/3PwAy6Zy2D",
+	Title = "Alacrity.rip ・ https://discord.gg/xfvUJjAaBk",
 	Center = true,
 	AutoShow = getgenv().showui,
 	Resizable = false,
